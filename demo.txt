@@ -5,7 +5,7 @@
 </head>
 <body>
 
-<h1>My First commit form VS</h1>
+<h1>My First commit from dev</h1>
 <p>My first paragraph.</p>
 
 </body>
