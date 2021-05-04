@@ -16,3 +16,5 @@ jobs:
        username: iem@cjeast.com
        password: ${{ secrets.SONIA_FTP_PASSWORD }}
        
+       
+       
